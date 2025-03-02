@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>My Project About Music</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <header>
+        <h1>Music Is Interesting</h1>
+    </header>
+    <main>
+        <p> <strong>Music</strong>, while it does seem to be a very simple thing to do such as simply sitting down and
+            recording it can be quite an experience if you ever plan to make it an actual job rather than a hobby!
+
+        </p> <strong>Did</strong>, you know Michael Jackson's "Invincible" was rougly around 40 million dollars in 2001?
+        <br> Adjusting it to 2024 standards it only stood at 71 million dollars which is crazy to think about simply because
+        the <br> "Gulfstream II" a private jet from the same year was only sold for 4.9 million.
+<section>
+    <h2>Pictures</h2>
+    <img src="https://github.com/TaeVi0/COD-CIS-1310/blob/main/module1/pictures/71E4Ci9R61L._UF1000,1000_QL80_.jpg?raw=true" height="300">
+    <img src="https://github.com/TaeVi0/COD-CIS-1310/blob/main/module1/pictures/ab67616d00001e0247dd2ca47ec9bf14559e17c6.jpg?raw=true" height="200" >
+    <img src="https://github.com/TaeVi0/COD-CIS-1310/blob/main/module1/pictures/Die_Lit_by_Playboi_Carti.jpg?raw=true">
+     <h3>Some Facts About Music</h3>
+     <ul>
+        <li>Baby One More Time, We Are The Champions, The Real Slim Shady, Enter Sandman & the Barney theme were some of the songs the CIA used to torture prisoners at Guantanamo Bay </li>
+        <li>Music is often prescribed to patients with Parkinson’s Disease and stroke victims</li>
+        <li>Music triggers activity in the same part of the brain that releases Dopamine, the “pleasure chemical”.</li>
+        <li>When all the notes are hit correctly and you are in the right environment, it can put you in a state of trance.</li>
+     </ul>
+
+</section>
+    <footer>
+        <h4>Curious About More?</h4>
+        <p> Check out <a href="https://www.allmusic.com/"> Allmusic</a> for more</p>
+            <p> @2025 T Taylor</p>
+    </footer>
